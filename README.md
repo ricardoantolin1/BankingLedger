@@ -1,5 +1,5 @@
 # BankingLedger
-In-memory banking ledge with the following workflows:
+In-memory banking ledger with the following workflows:
 -Create a new account
 -Login
 -Record a deposit
