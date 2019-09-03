@@ -1,5 +1,5 @@
 # BankingLedger
-My solution to the following code challenge which was done in around 4 hours: 
+My solution to the following code challenge (completed in around 4 hours): 
 
 You have been tasked with writing the world’s greatest banking ledger. Please code a solution that can perform the following workflows through a console application (accessed via the command line):
 
